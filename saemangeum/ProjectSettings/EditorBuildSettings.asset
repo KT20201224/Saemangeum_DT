@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MK1/saemangeum_main.unity
+    guid: ac7485b98842b1546baec80b0bbc85a3
   m_configObjects: {}
